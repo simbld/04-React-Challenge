@@ -16,8 +16,6 @@ const Contact = (props) => {
 };
 
 export const App = (
-  // write your HTML code here
-
   <div className="titre-container">
     <h1 className="text-center">My contacts list 📱</h1>
 
